@@ -1,0 +1,11 @@
+﻿
+/ign_*
+ign_*
+**/ign_*
+**/**/ign_* 
+
+node_modules
+*lock.json
+dist
+
+.vscode/
